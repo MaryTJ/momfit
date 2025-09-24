@@ -1,5 +1,5 @@
 import FitnessAppStreaming from "@/components/FitnessAppStreaming";
 
-export default function Page() {
+export default function Home() {
   return <FitnessAppStreaming />;
 }
