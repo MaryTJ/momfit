@@ -1,4 +1,4 @@
-import FitnessAppStreaming from "@/components/FitnessAppStreaming";
+import FitnessAppStreaming from "../components/FitnessAppStreaming";
 
 export default function Home() {
   return <FitnessAppStreaming />;
