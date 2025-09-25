@@ -19,6 +19,7 @@
     "tailwindcss": "latest"
   },
   "devDependencies": {
+    "tailwindcss": "^3.4.0",
     "autoprefixer": "latest",
     "postcss": "latest"
   }
